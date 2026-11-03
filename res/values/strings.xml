@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HyperCCFit</string>
+    <string name="app_full_name">HyperOS Control Center Display Optimizer</string>
+    <string name="module_description">Adapts HyperOS Control Center for minimal display scaling / high DPI, expanding layout width, aligning media player, adding ringer slider, and enabling single-line marquee tile titles.</string>
+    <string name="status_title">Module Status</string>
+    <string name="status_active">LSPosed Module Active</string>
+    <string name="status_inactive">Module inactive. Please enable in LSPosed and restart SystemUI.</string>
+    <string name="features_title">Active Enhancements</string>
+    <string name="feature_grid">30-span unified grid architecture</string>
+    <string name="feature_media">Expanded media player perfectly aligned with Wi-Fi card</string>
+    <string name="feature_sliders">Triple slender sliders (Brightness, Media Volume, Ringer Volume)</string>
+    <string name="feature_tiles">5 columns of quick setting tiles with single-line loop marquee titles</string>
+    <string name="feature_spacing">System native vertical spacing preserved</string>
+    <string name="screen_info_title">Device Display Information</string>
+    <string name="screen_width_info">Screen Width: %1$d dp (Physical: %2$d px)</string>
+    <string name="screen_density_info">Screen Density: %1$d dpi (Scale: %2$.2f)</string>
+    <string name="panel_width_info">Calculated Panel Width: %1$d dp (%2$.1f%% of screen)</string>
+    <string name="action_restart_systemui">Restart SystemUI</string>
+    <string name="restart_confirm_msg">SystemUI will be restarted to apply changes immediately. The screen may briefly flash for 1-2 seconds. Continue?</string>
+    <string name="btn_confirm">Restart</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="toast_restart_failed">Failed to restart SystemUI. Please restart it manually or via root manager.</string>
+</resources>
